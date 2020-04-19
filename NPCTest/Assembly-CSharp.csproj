@@ -45,6 +45,11 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets\NewBehaviourScript.cs" />
+     <Compile Include="Assets\Scripts\AI2_hj.cs" />
+     <Compile Include="Assets\Scripts\AI_hj.cs" />
+     <Compile Include="Assets\Scripts\AItest.cs" />
+     <Compile Include="Assets\Scripts\GetComponents_hj.cs" />
      <Compile Include="Assets\Scripts\SimpleCameraController.cs" />
      <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
  <Reference Include="UnityEngine">
